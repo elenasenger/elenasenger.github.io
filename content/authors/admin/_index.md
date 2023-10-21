@@ -40,10 +40,16 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:elenasenger@imw.fraunhofer.de"
+  - icon:  linkedin-in
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/elena-senger-20b399213/"
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hey, I'm Elena. I'm a a research associate in the [Data Science for Innovation Group](https://www.imw.fraunhofer.de/en/research/regional-development-innovation/data-science-for-innovation.html) at [Fraunhofer IMW](https://www.imw.fraunhofer.de/en.html) and a first-year Ph.D. student at the [MaiNLP research group (Center for Information and Language Processing, LMU Munich)](https://mainlp.github.io/). My supervisor is [Barbara Plank](https://bplank.github.io/). I work and research in the field of Natural Language Processing, I specialize in machine learning with limited data, using semi-supervised and weakly-supervised techniques. I'm interested in cross-domain NLP and Information Extraction from unstructured text.
+Hey, I'm Elena. I'm a a research associate in the [Data Science for Innovation Group](https://www.imw.fraunhofer.de/en/research/regional-development-innovation/data-science-for-innovation.html) at [Fraunhofer IMW](https://www.imw.fraunhofer.de/en.html) and a first-year Ph.D. student at the [MaiNLP research group (Center for Information and Language Processing, LMU Munich)](https://mainlp.github.io/). My supervisor is [Barbara Plank](https://bplank.github.io/). 
+
+I work and research in the field of Natural Language Processing, I specialize in machine learning with limited data, using semi-supervised and weakly-supervised techniques. I'm interested in cross-domain NLP and Information Extraction from unstructured text.
 {style="text-align: justify;"}
