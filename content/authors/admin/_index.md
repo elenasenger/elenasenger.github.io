@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Elena Senger
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Elena Senger
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Elena
+last_name: Senger
 
 # Status emoji
 status:
@@ -16,13 +16,13 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# # Role/position/tagline
+# role: Research Scientist and phd candidate
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+# # Organizations/Affiliations to show in About widget
+# organizations:
+#   - name: Stanford University
+#     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -42,9 +42,7 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -120,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey, I'm Elena. I'm a a research associate in the [Data Science for Innovation Group](https://www.imw.fraunhofer.de/en/research/regional-development-innovation/data-science-for-innovation.html) at [Fraunhofer IMW](https://www.imw.fraunhofer.de/en.html) and a first-year Ph.D. student at the [MaiNLP research group (Center for Information and Language Processing, LMU Munich)](https://mainlp.github.io/). My supervisor is [Barbara Plank](https://bplank.github.io/). I work and research in the field of Natural Language Processing, I specialize in machine learning with limited data, using semi-supervised and weakly-supervised techniques. I'm interested in cross-domain NLP and Information Extraction from unstructured text.
 {style="text-align: justify;"}
