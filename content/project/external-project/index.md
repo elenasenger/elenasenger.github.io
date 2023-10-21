@@ -1,14 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
-tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+title: WIR-V1.6 - FiberConnect
+summary: The 'project's' goal is the development of a digital platform for an overview of all relevant players in the circular economy of Carbon fibers. We're different machine learning approaches to classify companies into the material cycle.
+
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+project's: https://wir-recyceln-fasern.de/wir-v1-6-entwicklung-eines-ki-radars-zur-identifikation-kategorisierung-und-vernetzung-neuer-unternehmen-im-stoffkreislauf-fuer-faserverbundwerkstoffe-fiberconnect-bewilligung-steht-noch-aus/
 
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by Toa Heftiba on Unsplash
+#   focal_point: Smart
 ---
