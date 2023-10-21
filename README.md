@@ -1,0 +1,1 @@
+My Custom settings for Wowchemy theme for Hugo.
