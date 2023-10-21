@@ -43,6 +43,9 @@ social:
   - icon:  linkedin-in
     icon_pack: fab
     link: "https://www.linkedin.com/in/elena-senger-20b399213/"
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/elenasenger
 
 
 # Highlight the author in author lists? (true/false)
