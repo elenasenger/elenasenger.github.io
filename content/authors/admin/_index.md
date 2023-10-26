@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:elenasenger@imw.fraunhofer.de"
+    link: "mailto:elena.senger@imw.fraunhofer.de"
   - icon:  linkedin-in
     icon_pack: fab
     link: "https://www.linkedin.com/in/elena-senger-20b399213/"
