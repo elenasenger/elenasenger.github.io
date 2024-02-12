@@ -46,6 +46,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/elenasenger
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ElenaSngr
+    
+  
 
 
 # Highlight the author in author lists? (true/false)
