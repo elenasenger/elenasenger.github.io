@@ -17,13 +17,13 @@ profile:
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hey, I’m Elena. I’m a a research associate in the <a href="https://www.imw.fraunhofer.de/en/research/regional-development-innovation/data-science-for-innovation.html">Data Science for Innovation Group</a> at Fraunhofer IMW 
-      and a first-year Ph.D. student at the MaiNLP research group <a href="https://mainlp.github.io/">MaiNLP research group</a> 
-      (Center for Information and Language Processing, LMU Munich). My supervisors are <a href="https://bplank.github.io/">Barbara Plank</a> 
-       and <a href="https://robvanderg.github.io/">Rob von der Goot</a>.
-      
 
-My primary focus lies in applied Natural Language Processing. I work on cross-domain NLP and information extraction from unstructured text, particularly in the area of computational job market analysis. I am interested in machine learning with limited data—a common scenario in applied applications—utilizing  weakly-supervised techniques. Moreover, I research in the field of career path prediction.
+Hey, I’m Elena. I’m a a research associate in the <a href="https://www.imw.fraunhofer.de/en/research/regional-development-innovation/data-science-for-innovation.html">Data Science for Innovation Group</a> at Fraunhofer IMW
+and a first-year Ph.D. student at the MaiNLP research group <a href="https://mainlp.github.io/">MaiNLP research group</a>
+(Center for Information and Language Processing, LMU Munich). My supervisors are <a href="https://bplank.github.io/">Barbara Plank</a>
+and <a href="https://robvanderg.github.io/">Rob von der Goot</a>.
+
+My primary focus lies in applied Natural Language Processing. I work on cross-domain NLP and information extraction from unstructured text, particularly in the area of computational job market analysis. I am interested in machine learning with limited data—a common scenario in applied applications—utilizing weakly-supervised techniques. Moreover, I research in the field of career path prediction.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
