@@ -1,4 +1,10 @@
 source 'https://rubygems.org'
+
+# Use the `github-pages` gem to align with GitHub Pages' supported plugins and versions.
+gem 'github-pages', group: :jekyll_plugins
+
+
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
