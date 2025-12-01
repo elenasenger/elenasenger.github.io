@@ -23,7 +23,7 @@ and a third-year Ph.D. student at the MaiNLP research group <a href="https://mai
 (Center for Information and Language Processing, LMU Munich). My supervisors are <a href="https://bplank.github.io/">Barbara Plank</a>
 and <a href="https://robvanderg.github.io/">Rob von der Goot</a>. Moreover, I am a scholarship holder at the <a href="https://www.bidt.digital/person/elena-senger/">Bavarian Research Institute for Digital Transformation (bidt)</a>.
 
-My primary focus lies in applied Natural Language Processing. I work on cross-domain NLP and information extraction from unstructured text, particularly in the area of computational job market analysis. I am interested in machine learning with limited data—a common scenario in applied applications—utilizing weakly-supervised techniques.
+My primary focus lies in applied Natural Language Processing. I work on cross-domain NLP and information extraction from unstructured text, particularly in the area of computational job market analysis. I am interested in machine learning with limited data, a common scenario in applied applications, utilizing weakly-supervised techniques.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
