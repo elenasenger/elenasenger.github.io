@@ -1,4 +1,11 @@
 source 'https://rubygems.org'
+
+# Add the al-folio theme itself
+gem "al-folio" 
+
+# Add the standard github-pages gem for dependency resolution
+gem "github-pages", group: :jekyll_plugins 
+
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -12,6 +19,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
+    # This is the crucial gem for the publications page
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
