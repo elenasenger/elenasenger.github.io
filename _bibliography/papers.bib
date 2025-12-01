@@ -1,6 +1,8 @@
 ---
 ---
 
+
+
 @inproceedings{senger-etal-2024-deep,
     abbr={Survey},
     bibtex_show={true},
@@ -31,10 +33,47 @@
       Campbell, Yuri  and
       van der Goot, Rob  and
       Plank, Barbara",
-    booktitle = "To appear in COLING Industry Track",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics: Industry Track",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-industry.46/",
     month = jan,
     year = "2025",
+    pages = "533–-545"
     abstract = "Accurate career path prediction can support many stakeholders, like job seekers, recruiters, HR, and project managers. However, publicly available data and tools for career path prediction are scarce. In this work, we introduce KARRIEREWEGE, a comprehensive, publicly available dataset containing over 500k career paths, significantly surpassing the size of previously available datasets. We link the dataset 
             to the ESCO taxonomy to offer a valuable resource for predicting career trajectories. To tackle the problem of free-text inputs typically found in resumes, we 
             enhance it by synthesizing job titles and descriptions resulting in KARRIEREWEGE+. This allows for accurate predictions from unstructured data, closely aligning with real-world application challenges. We benchmark existing state-of-the-art (SOTA) models on our dataset and a previous benchmark and see increased performance and robustness by synthesizing the data for the free-text use cases."
+}
+
+@inproceedings{senger-etal-2025-more-realistic,
+    abbr={Methods},
+    bibtex_show={true},
+    title = "Towards more realistic Career Path Prediction: Evaluation and Methods",
+    author = "Senger, Elena  and
+      Campbell, Yuri  and
+      van der Goot, Rob  and
+      Plank, Barbara",
+    booktitle = "Frontiers in Big Data",
+    volumne = "Volume 8",
+    month = aug,
+    year = "2025",
+    url = "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2025.1564521/full",
+    abstract = "Predicting career trajectories is a complex yet impactful task, offering significant benefits for personalized career counseling, recruitment optimization, and workforce planning. However, effective career path prediction (CPP) modeling faces challenges including highly variable career trajectories, free-text resume data, and limited publicly available benchmark datasets. In this study, we present a comprehensive comparative evaluation of CPP models-linear projection, multilayer perceptron (MLP), LSTM, and large language models (LLMs)-across multiple input settings and two recently introduced public datasets. Our contributions are threefold: (1) we propose novel model variants, including an MLP extension and a standardized LLM approach, (2) we systematically evaluate model performance across input types (titles only vs. title+description, standardized vs. free-text), and (3) we investigate the role of synthetic data and fine-tuning strategies in addressing data scarcity and improving model generalization. Additionally, we provide a detailed qualitative analysis of prediction behaviors across industries, career lengths, and transitions. Our findings establish new baselines, reveal the trade-offs of different modeling strategies, and offer practical insights for deploying CPP systems in real-world settings.",
+}
+
+@inproceedings{senger-etal-2024-deep,
+    abbr={Methods},
+    bibtex_show={true},
+    title = "Crossing Domains without Labels: Distant Supervision for Term Extraction",
+    author = "Senger, Elena  and
+      Campbell, Yuri  and
+      van der Goot, Rob  and
+      Plank, Barbara",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+    month = nov,
+    year = "2025",
+    address = "Suzhou (China)",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-industry.95/",
+    pages = "1366–-1378",
+    abstract = "Automatic Term Extraction (ATE) is a critical component in downstream NLP tasks such as document tagging, ontology construction and patent analysis. Current state-of-the-art methods require expensive human annotation and struggle with domain transfer, limiting their practical deployment. This highlights the need for more robust, scalable solutions and realistic evaluation settings. To address this, we introduce a comprehensive benchmark spanning seven diverse domains, enabling performance evaluation at both the document-and corpus-levels. Furthermore, we propose a robust LLM-based model that outperforms both supervised cross-domain encoder models and few-shot learning baselines and performs competitively with its GPT-4o teacher on this benchmark. The first step of our approach is generating psuedo-labels with this black-box LLM on general and scientific domains to ensure generalizability. Building on this data, we fine-tune the first LLMs for ATE. To further enhance document-level consistency, oftentimes needed for downstream tasks, we introduce lightweight post-hoc heuristics. Our approach exceeds previous approaches on 5/7 domains with an average improvement of 10 percentage points. We release our dataset and fine-tuned models to support future research in this area.",
 }
